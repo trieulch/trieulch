@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcom guys 👋
 
 <!--
 **trieulch/trieulch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+- **Name:** Trieu Le
+- **Role:** Data Analyst
+- **Specializations:**
+  - SQL
+  - Power BI
+  - Statistics
+
+## Skills
+- **SQL:** Proficient in writing complex SQL queries for data retrieval, manipulation, and analysis.
+- **Power BI:** Experienced in creating interactive visualizations, dashboards, and reports to convey insights from data.
+- **Statistics:** Skilled in applying statistical methods to analyze and interpret data, including hypothesis testing, regression analysis, and data modeling.
+
+## Contact Information
+- **Email:** trieulech1409@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/trieulch/
+
+## Education
+- Bachelor of Industrial System Engineering in Ho Chi Minh City University of Technology
+
+## How to Reach Me
+Feel free to reach out to me via email or LinkedIn if you have any inquiries or opportunities for collaboration!
