@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - **Statistics:** Skilled in applying statistical methods to analyze and interpret data, including hypothesis testing, regression analysis, and data modeling.
 
 ## Contact Information
-- **Email:** trieulech1409@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/trieulch/
 
 ## Education
