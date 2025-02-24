@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 - **Specializations:**
   - SQL
   - Power BI
+  - Excel
   - Statistics
 
 ## Skills
 - **SQL:** Proficient in writing complex SQL queries for data retrieval, manipulation, and analysis.
 - **Power BI:** Experienced in creating interactive visualizations, dashboards, and reports to convey insights from data.
+- **Excel**: Mastered level(no VBA)
 - **Statistics:** Skilled in applying statistical methods to analyze and interpret data, including hypothesis testing, regression analysis, and data modeling.
 
 ## Contact Information
