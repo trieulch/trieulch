@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - **Role:** Data Analyst
 - **Specializations:**
   - SQL
-  - Power BI
+  - Power BI(DAX)
   - Excel
   - Statistics
+  - Python
 
 ## Skills
 - **SQL:** Proficient in writing complex SQL queries for data retrieval, manipulation, and analysis.
