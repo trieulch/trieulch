@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - **Power BI:** Experienced in creating interactive visualizations, dashboards, and reports to convey insights from data.
 - **Excel**: Mastered level(no VBA)
 - **Statistics:** Skilled in applying statistical methods to analyze and interpret data, including hypothesis testing, regression analysis, and data modeling.
+- **Python**: Vibe codings
 
 ## Contact Information
 - **LinkedIn:** https://www.linkedin.com/in/trieulch/
