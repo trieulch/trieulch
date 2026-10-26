@@ -1,41 +1,24 @@
-## Welcom guys 👋
+# Hi, I'm Trieu Le 👋
 
-<!--
-**trieulch/trieulch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** | SQL · Power BI · Excel · Python · Statistics
 
-Here are some ideas to get you started:
+I turn raw data into clear, actionable insights through well-structured queries, interactive dashboards, and sound statistical analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About Me
-- **Name:** Trieu Le
-- **Role:** Data Analyst
-- **Specializations:**
-  - SQL
-  - Power BI(DAX)
-  - Excel
-  - Statistics
-  - Python
+## Core Skills
 
-## Skills
-- **SQL:** Proficient in writing complex SQL queries for data retrieval, manipulation, and analysis.
-- **Power BI:** Experienced in creating interactive visualizations, dashboards, and reports to convey insights from data.
-- **Excel**: Mastered level(no VBA)
-- **Statistics:** Skilled in applying statistical methods to analyze and interpret data, including hypothesis testing, regression analysis, and data modeling.
-- **Python**: Vibe codings
-
-## Contact Information
-- **LinkedIn:** https://www.linkedin.com/in/trieulch/
+| Area | Focus |
+|------|-------|
+| **SQL** | Writing complex queries for data extraction, transformation, and analysis |
+| **Power BI** | Building interactive dashboards and reports; data modeling and DAX |
+| **Excel** | Advanced data cleaning, analysis, and reporting |
+| **Statistics** | Hypothesis testing, regression analysis, and data modeling |
+| **Python** | Data analysis and automation, with AI-assisted development |
 
 ## Education
-- Bachelor of Industrial System Engineering in Ho Chi Minh City University of Technology
 
-## How to Reach Me
-Feel free to reach out to me via email or LinkedIn if you have any inquiries or opportunities for collaboration!
+**Bachelor of Industrial Systems Engineering**
+Ho Chi Minh City University of Technology
+
+## Connect With Me
+
+I'm open to collaboration and new opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/trieulch/).
