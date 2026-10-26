@@ -1,4 +1,4 @@
-# Hi, I'm Trieu Le 👋
+# Hi, I'm Trieu Le
 
 **Data Analyst** | SQL · Power BI · Excel · Python · Statistics
 
